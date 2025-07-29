@@ -7,9 +7,8 @@ My neovim configuration
 - a C compiler in your ```$PATH``` and ```libstdc++``` installed
 
 ## Optional dependencies
-- [https://github.com/sharkdp/fd](sharkdp/fd)
-- [https://github.com/BurntSushi/ripgrep](burntsushi/ripgrep)
-
+- [sharkdp/fd](https://github.com/sharkdp/fd)
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
 
 ## Installation
 
@@ -17,6 +16,8 @@ My neovim configuration
 ```bash
 mv ~/.config/nvim ~/.config/nvim.bak
 ```
+
+### Clone the repository to the config directory
 
 ```bash
 git clone https://github.com/LuxSkyWalk/nvim-config.git $XDG_CONFIG_HOME/nvim
