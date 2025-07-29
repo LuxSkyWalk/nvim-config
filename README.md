@@ -12,6 +12,12 @@ My neovim configuration
 
 
 ## Installation
+
+### Back up your current neovim configuration (optional)
+```bash
+mv ~/.config/nvim ~/.config/nvim.bak
+```
+
 ```bash
 git clone https://github.com/LuxSkyWalk/nvim-config.git $XDG_CONFIG_HOME/nvim
 ```
